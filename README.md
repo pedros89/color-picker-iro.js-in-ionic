@@ -5,7 +5,7 @@ integrate iro.js color picker in Ionic 5
 Hello,
 Just visit the page https://iro.js.org/guide.html to see this beatiful color picker
 
-- open CMD
+- open CMD if you are on Windows
 - navigate in the folder of your app and install it 
 
 `npm install @jaames/iro --save`
