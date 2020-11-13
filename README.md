@@ -10,5 +10,5 @@ Just visit the page https://iro.js.org/guide.html to see this beatiful color pic
 
 `npm install @jaames/iro --save`
 
--make sure that in the folder node_modules  the folder @jaames is there
--in my case I needed to integrate in the homepage in ngOnInit function
+- make sure that in the folder node_modules  the folder @jaames is there
+- in my case I needed to integrate in the homepage in ngOnInit function
