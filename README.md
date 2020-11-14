@@ -2,7 +2,7 @@
 integrate iro.js color picker in Ionic 5
 
 
-Hello, below I will explain my second attempt which worked to see the first attempt change code branch:
+Hello, below I will explain my second attempt which worked fine, to see the first attempt change code branch:
 I have took inspiration form this video
 https://www.youtube.com/watch?v=SSbOK6zzU9I&list=LL&index=3
 
@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=SSbOK6zzU9I&list=LL&index=3
    
 - in your assets folder create a folder called js in this folder place the file externaljsfile.js
   
-  in your home.page.ts add
+- in your home.page.ts add
   
   `import { Component, OnInit } from '@angular/core';`
   
- - create the variable
+ - in your home.page.ts create the variable
  
  ` declare var ExternalJSFileFunction; `
  
