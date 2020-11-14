@@ -26,10 +26,9 @@ https://www.youtube.com/watch?v=SSbOK6zzU9I&list=LL&index=3
   
  - make the ngOnInit() function
    
-   ngOnInit(){
-    ExternalJSFileFunction();
-  }
+   ` ngOnInit(){ `
+   `  ExternalJSFileFunction(); } `
   
   - add the CDN link in the page index.html
   
-     <script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
+      `<script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script> `
