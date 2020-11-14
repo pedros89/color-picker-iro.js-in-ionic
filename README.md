@@ -2,7 +2,7 @@
 integrate iro.js color picker in Ionic 5
 
 
-Hello, below I will explain my second attempt which worked:
+Hello, below I will explain my second attempt which worked to see the first attempt change code branch:
 I have took inspiration form this video
 https://www.youtube.com/watch?v=SSbOK6zzU9I&list=LL&index=3
 
