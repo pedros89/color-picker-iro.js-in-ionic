@@ -5,7 +5,7 @@ integrate iro.js color picker in Ionic 5
 Hello,
 
 The procedure shown below only if you have your app runnning but if you restart your app it will not work anymore.
-Iwill keep it just for the record
+I will keep it just for the record, read the README for the working procedure
 
 Just visit the page https://iro.js.org/guide.html to see this beatiful color picker
 
