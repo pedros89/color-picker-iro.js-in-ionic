@@ -3,6 +3,10 @@ integrate iro.js color picker in Ionic 5
 
 
 Hello,
+
+The procedure shown below only if you have your app runnning but if you restart your app it will not work anymore.
+Iwill keep it just for the record
+
 Just visit the page https://iro.js.org/guide.html to see this beatiful color picker
 
 - open CMD if you are on Windows
@@ -24,7 +28,7 @@ In the home.page.js file
 - insert the ngOnInit() function
 
 `ngOnInit(){
- //place the code for the JavaScript code of the colour picker here
+ //place the code for an extenal data
  }`
  
  In the home.page.html add the code:
